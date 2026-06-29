@@ -33,3 +33,9 @@ bin/
 target/
 build/
 .idea/
+
+# IntelliJ
+*.iml
+
+# OS
+Thumbs.db

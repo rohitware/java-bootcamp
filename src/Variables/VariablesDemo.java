@@ -8,5 +8,4 @@ public class VariablesDemo {
         System.out.println(age);
         System.out.println(name);
     }
-
 }

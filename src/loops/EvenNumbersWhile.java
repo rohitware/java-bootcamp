@@ -1,4 +1,4 @@
-package operators;
+package loops;
 
 public class EvenNumbersWhile {
     public static void main(String[] args) {

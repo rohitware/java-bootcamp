@@ -1,9 +1,12 @@
 package superkeyword;
 
 public class Car extends Vehicle {
-    @Override
-    public void start() {
-        super.start();
-        System.out.println("Car is starting");
+
+    String brand = "BMW";
+
+    public void display() {
+
+        System.out.println(brand);
+        System.out.println(super.brand);
     }
 }
